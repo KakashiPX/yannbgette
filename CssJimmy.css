@@ -1,0 +1,25 @@
+h1
+{
+	font-size: 25px ;
+	font-family: ARIAL BLACK;
+	text-align: center;
+ 	color: red;
+
+
+ }
+
+ body
+ {
+ 	background-image: url(fond.jpg)
+ }
+
+h2
+ {
+ 	color: cyan;
+ 	background-color: white opacity 30%
+	
+ }
+
+ a{
+ 	color :cyan;
+ }
